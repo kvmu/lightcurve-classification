@@ -5,6 +5,7 @@
 @rdegardner
 @rachzili13
 @yaoshi1994
+@brooke1313
 
 ## Abstract
 We present a small study in the classification of (periodic)
